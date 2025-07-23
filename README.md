@@ -33,4 +33,4 @@ This Excel-based data analysis project visualizes Liverpool Football Club's seas
 
 ## 📷 Preview
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview]https://github.com/camarenrogers/liverpool-fc-performance-dashboard/blob/main/liverpool-fc-performance-dashboard/dashboard_screenshot.png
